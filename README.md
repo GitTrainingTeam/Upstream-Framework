@@ -9,3 +9,5 @@ Project Name: <insert project name>
   Start Date: <insert start date>
 
   Technologies: <insert technologies here>
+
+  Keywords: <insert keywords here>
