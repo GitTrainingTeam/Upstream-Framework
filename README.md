@@ -13,3 +13,5 @@ Project Name: <insert project name>
   Keywords: <insert keywords here>
 
   URL: <insert url here>
+
+  Twitter: <insert twitter here>
