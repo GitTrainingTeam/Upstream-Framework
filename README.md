@@ -17,3 +17,5 @@ Project Name: <insert project name>
   Twitter: <insert twitter here>
 
   Facebook: <insert facebook here>
+
+  YouTube: <insert youtube url here>
